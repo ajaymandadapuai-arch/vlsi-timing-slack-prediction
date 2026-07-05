@@ -1,4 +1,10 @@
 # VLSI Timing Slack Prediction using Machine Learning
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> A Machine Learning approach to predict timing slack in VLSI circuits using Random Forest Regression, enabling faster timing analysis and early detection of timing violations.
 
 ## Overview
 
