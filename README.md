@@ -43,11 +43,17 @@ The objective is to identify potential timing violations efficiently and support
 
 ## Results
 
-Example metrics:
+### Prediction vs Actual
 
-- R² Score: 0.84
-- Mean Squared Error: 11.4
-- Accurate prediction of timing violation
+![Prediction vs Actual](prediction_vs_actual.png)
+
+### Slack Distribution
+
+![Slack Distribution](slack_distribution.png)
+
+### Timing Violations
+
+![Timing Violations](timing_violations.png)
 
 ---
 
